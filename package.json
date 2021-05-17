@@ -38,8 +38,7 @@
     "when": "3.7.8"
   },
   "scripts": {
-    "test": "node testRunner.js",
-    "postinstall": "node postInstall.js"
+    "test": "node testRunner.js"
   },
   "main": "./index.js"
 }
